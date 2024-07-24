@@ -2,7 +2,7 @@
 
 import SimpleLightbox from "simplelightbox";
 import "simplelightbox/dist/simple-lightbox.min.css";
-
+import "../css/custom-simple-lightbox.css";
 const images = [
   {
     preview:
