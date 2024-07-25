@@ -1,9 +1,3 @@
-body.gallery-body {
-  font-family: "Montserrat", sans-serif;
-  letter-spacing: 0.04em;
-  background-color: #fff;
-}
-
 .gallery {
   padding-top: 24px;
   display: flex;
