@@ -5,8 +5,8 @@
 .nav-list {
   display: flex;
   align-items: center;
-  justify-content: flex-end;
-  gap: 40px;
+  justify-content: center;
+  gap: 80px;
 }
 
 .nav-link {
